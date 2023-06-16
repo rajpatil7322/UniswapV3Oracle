@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/1_Storage.sol": "UniswapOrcale"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/1_Storage.sol": {
+			"keccak256": "0xcb0c1966f8623b67b9c1ff82ac76fc16a39a14beb3dcee884d3ac47dd9c13f29",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://35f5dc706ac4a3db45255fc2f87cf448201826965b28da21e54c20799df24610",
+				"dweb:/ipfs/QmU6mjrqdtQhCAKCpZ4VmYEgPDehMXq3MKbHMmsco1CU2K"
+			]
+		}
+	},
+	"version": 1
+}
